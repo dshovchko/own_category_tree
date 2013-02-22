@@ -1,0 +1,5 @@
+This is a slightly simplified textpattern plugin stw_category_tree. This modified version reduces the number of database queries and sorts categories as I have.
+
+More detail in this article http://shpargalki.org.ua/102/textpattern-ierarkhicheskii-spisok-kategorii
+
+It tested with 4.2.0 only.
